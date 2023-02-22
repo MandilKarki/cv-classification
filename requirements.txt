@@ -1,0 +1,10 @@
+
+fastapi==0.92.0
+
+pydantic==1.10.5
+python-multipart==0.0.5
+
+torch==1.13.1
+torchvision
+
+uvicorn==0.20.0
